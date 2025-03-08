@@ -1,2 +1,2 @@
-# Prepcourse-Henry
-Este es un repositorio de prueba del PrepCourse de la segunda lección
+Victor Lopez
+Este proyecto es una prueba sobre como crear una commit en github y copiarlo en mi computadora localmente.
